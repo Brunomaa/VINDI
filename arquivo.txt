@@ -1,3 +1,6 @@
 git config --global user.name "BrunoDesktop"
 
 git config --global user.email "brunomartins010@outlook.com"
+
+
+PASSO 1
