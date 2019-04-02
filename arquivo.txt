@@ -1,6 +1,21 @@
+Definindo name e email
 git config --global user.name "BrunoDesktop"
 
 git config --global user.email "brunomartins010@outlook.com"
 
+-clonando repositorio do GIT para pasta do Projeto
+  git clone https: (caminho do projeto)
 
-PASSO 1
+-adicionando arquivos no container
+git add *
+
+-verificando arquivos na pasta
+git status
+
+-gravando os arquivos no container
+git commit -m "msg"
+
+-empurrando arquivos para o GitHub
+git push
+
+
